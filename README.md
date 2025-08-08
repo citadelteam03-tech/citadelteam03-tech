@@ -91,14 +91,14 @@ We provide training and mentorship for all skill levels.
 📍 **Calgary, Alberta, Canada**
 
 ###  YouTube Stats
-[![Subscribers](https://img.shields.io/endpoint?url=YOUR_URL/api/subscriber)](https://youtube.com/channel/CHANNEL_ID)
-[![Views](https://img.shields.io/endpoint?url=YOUR_URL/api/views)](https://youtube.com/channel/CHANNEL_ID)
-[![Videos](https://img.shields.io/endpoint?url=YOUR_URL/api/videos)](https://youtube.com/channel/CHANNEL_ID)
+[![Subscribers](https://img.shields.io/endpoint?url=YOUR_URL/api/subscriber)](https://youtube.com/channel/UC-5ZvJeA2OwfO16OprllFwA)
+[![Views](https://img.shields.io/endpoint?url=YOUR_URL/api/views)](https://youtube.com/channel/UC-5ZvJeA2OwfO16OprllFwA)
+[![Videos](https://img.shields.io/endpoint?url=YOUR_URL/api/videos)](https://youtube.com/channel/UC-5ZvJeA2OwfO16OprllFwA)
 
 ###  Follow Us
 [![Instagram](https://img.shields.io/badge/Instagram-Follow?style=for-the-badge&logo=instagram)](https://instagram.com/your_handle)
 [![TikTok](https://img.shields.io/badge/TikTok-Follow?style=for-the-badge&logo=tiktok)](https://tiktok.com/@your_handle)
-[![Facebook](https://img.shields.io/badge/Facebook-Like?style=for-the-badge&logo=facebook)](https://facebook.com/your_page)
+[![Facebook](https://img.shields.io/badge/Facebook-Like?style=for-the-badge&logo=facebook)](https://facebook.com/TCICCalgary/)
 
 ---
 
