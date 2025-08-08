@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/logo.png" alt="TCIC Logo" width="200"/>
+  <img src="/assets/logo.png" alt="TCIC Logo" width="200"/>
 </p>
 
 # 🎚️ TCIC Calgary Tech Team
