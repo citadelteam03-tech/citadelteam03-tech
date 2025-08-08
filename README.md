@@ -1,6 +1,6 @@
-# 🎚️ Your Church Tech Team
+# 🎚️ TCIC Calgary Tech Team
 
-Welcome to the official GitHub page for the **Tech Team** at **Your Church Name**!  
+Welcome to the official GitHub page for the **Tech Team** at **The Citadel Church Calgary**!  
 We use this space to collaborate on tech-related tools, media, livestream systems, and internal documentation.
 
 ---
@@ -54,8 +54,8 @@ We're always happy to train and grow together.
 
 ## 📬 Contact
 
-📧 Email: techteam@yourchurch.org  
-🌐 Website: [yourchurch.org](https://yourchurch.org)  
-📍 Location: Your City, State
+📧 Email: citadelteam03@gmail.com  
+🌐 Website: [tciccalgary.ca](https://www.tciccalgary.ca/))  
+📍 Location: Calgary, Alberta, Canada
 
 ---
