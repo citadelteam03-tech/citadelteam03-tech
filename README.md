@@ -83,10 +83,10 @@ We provide training and mentorship for all skill levels.
 
 ### 📱 Follow Us:
 
-- [📺 YouTube Channel](https://youtube.com/your-channel)
+- [📺 YouTube Channel](https://www.youtube.com/@thecitadelchurchcalgary9078)
 - [📸 Instagram](https://instagram.com/your-handle)
 - [🎵 TikTok](https://tiktok.com/@your-handle)
-- [📘 Facebook](https://facebook.com/your-page)
+- [📘 Facebook](https://facebook.com/TCICCalgary)
 
 📍 **Calgary, Alberta, Canada**
 
